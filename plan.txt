@@ -1,0 +1,11 @@
+Create a database on mongoDB that will handle all data
+Create an API
+Create a frontend system
+
+Capabilities must include:
+1.Create an admin as superadmin
+2.Create a student
+3.CRUD Books
+4.Ability to Borrow books, Return Books
+5.Show all books that are borrowed
+6.Show all students that borrowed
